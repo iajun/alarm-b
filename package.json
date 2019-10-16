@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "koa": "^2.10.0",
+    "koa-body": "^4.1.1",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "utility": "^1.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
